@@ -1,0 +1,10 @@
+ETL START ...Updated : 16-03-2023 / 00:51:03
+Extract Phase Started ...Updated : 16-03-2023 / 00:51:03
+ETL START ...Updated : 16-03-2023 / 00:55:58
+Extract Phase Started ...Updated : 16-03-2023 / 00:55:58
+Extract Phase Ended ...Updated : 16-03-2023 / 00:55:58
+Transform Phase Started ...Updated : 16-03-2023 / 00:55:58
+Transform Phase Ended ...Updated : 16-03-2023 / 00:55:58
+Load Phase Start ...Updated : 16-03-2023 / 00:55:58
+Load Phase Ended ...Updated : 16-03-2023 / 00:55:58
+ETL ENDED ...Updated : 16-03-2023 / 00:55:58
